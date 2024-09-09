@@ -21,6 +21,8 @@ pip install Flask
 <br>
 pip install Flask-SQLAlchemy
 
+<br>
+
 There are 2 GET methods used in the code
 <br>
 1 is we can results of 1 test case in json using /get_test/<case_id>, NOTE <case_id> is replaced with actual value in db for TEST_CASE_ID Column

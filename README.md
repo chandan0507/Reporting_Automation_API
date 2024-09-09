@@ -12,6 +12,15 @@ using flask_sqlalchemy db model table is created for the updation of results
 
 <br>
 
+Make sure python3.* version is installed in the local system
+<br>
+Install below python libraries using pip
+
+<br>
+pip install Flask
+<br>
+pip install Flask-SQLAlchemy
+
 There are 2 GET methods used in the code
 <br>
 1 is we can results of 1 test case in json using /get_test/<case_id>, NOTE <case_id> is replaced with actual value in db for TEST_CASE_ID Column

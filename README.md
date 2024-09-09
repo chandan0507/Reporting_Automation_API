@@ -28,11 +28,11 @@ Post /post_test is used to create a entry for test_case result with body as belo
 
 <br>
 {
-    "TEST_RUN_ID": 20000,
-    "TEST_CASE_NAME": "ete_auto",
-    "PRODUCT": "BT Product",
+    "TEST_RUN_ID": <int>,
+    "TEST_CASE_NAME": "<string>",
+    "PRODUCT": "<string>",
     "EXECUTION_TIME": "24-08-2024 23:12:00",
-    "RESULT": "pass"
+    "RESULT": "<pass or fail>"
 }
 <br>
 
